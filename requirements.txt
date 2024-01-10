@@ -1,0 +1,22 @@
+pip install pytesseract==0.3.0
+pip install numpy==1.19.2
+pip install opencv-contrib-python==4.3.0.36
+pip install opencv-python==4.1.1.26
+pip install Django==2.1.7
+
+in student system copy and paste tessarct folder an dthen set
+path
+
+hope u git its depend on multiple things like packages, tessarct version, algortihm
+and it difficult to find actual problem so u need to follow all steps which is done now
+
+above packages to install
+copy tessarct folder from ur system c directory and paste in student laptop and th
+
+set path in same way as its et in ur system
+
+okay sir 
+shall i disconnect
+
+
+yes 
